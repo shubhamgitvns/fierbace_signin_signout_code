@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "457099903313",
+    "project_id": "fir-signin-signout-code",
+    "storage_bucket": "fir-signin-signout-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457099903313:android:1e359de25bcb999f185370",
+        "android_client_info": {
+          "package_name": "com.example.fierbace_signin_signout_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000805816350-2ig99c1bo66rlshj0jq2per2e5hrq6t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fierbace_signin_signout_code",
+            "certificate_hash": "9a7bf030debfaa515d46fad36e8e61c4fa947f36"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBPvddCsJwXNhUzzL6KoFXpkENp7ArOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
